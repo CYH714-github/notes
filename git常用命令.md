@@ -1,4 +1,4 @@
-# The notes of Git learing
+# The notes of Git learning
 
 Maybe I should use English to write some notes which will improve my English ability.Though my grammar and spelling are like trash, I believe improvements will appear over time. This time I integrate two passages into an English version.
 
