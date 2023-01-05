@@ -10,4 +10,4 @@ VSCode offers a perfect git sync method that allows you to push/sync your files.
 
 I used to meet a strange problem, the error is `Failed to connect to github.com port 443:connection timed out` when I use a proxy service.
 
-The solution is to open Git Bash and enter `git config --global http.proxy http://127.0.0.1:1080`(to turn on the proxy) and `git config --global --unset http.proxy`(to turn off the proxy)
+The solution is to open Git Bash and enter `git config --global http.proxy http://127.0.0.1:1080` (to turn on the proxy) and `git config --global --unset http.proxy` (to turn off the proxy).
